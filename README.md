@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +10,3 @@ Currently, two official plugins are available:
 =======
 # Healthpro_Pratik_Wable
 HealthPro Assesment
->>>>>>> d9e62bee6b50c3296d1423b8351c07d8d7c4f4e0
